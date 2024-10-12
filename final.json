@@ -1,0 +1,4803 @@
+{ "hospitals": [
+  {
+    "NAME": "Ogbema Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.60422,
+    "LATITUDE": 4.81235,
+    "BED": 12,
+    "STAFF": 17,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emelego Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.51042,
+    "LATITUDE": 4.82202,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okolomade Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.48810,
+    "LATITUDE": 4.84994,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emago Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64500,
+    "LATITUDE": 4.84994,
+    "BED": 2,
+    "STAFF": 1,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akani Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.49721,
+    "LATITUDE": 4.76658,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emirikpoko Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.45140,
+    "LATITUDE": 4.88302,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Anyu",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.45648,
+    "LATITUDE": 4.8597,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Odau Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.45046,
+    "LATITUDE": 4.92171,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Arukwo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64572,
+    "LATITUDE": 4.85629,
+    "BED": 5,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "General Hospital Abua",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.65089,
+    "LATITUDE": 4.85403,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ayama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.6505,
+    "LATITUDE": 4.87622,
+    "BED": 8,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emesu Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.59497,
+    "LATITUDE": 4.92926,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obarany Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58936,
+    "LATITUDE": 4.92731,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okoboh Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61296,
+    "LATITUDE": 4.88657,
+    "BED": 2,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Aminigboko Cottage Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.58419,
+    "LATITUDE": 4.94066,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Aminiowere Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58441,
+    "LATITUDE": 4.93812,
+    "BED": 6,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Otapha Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64802,
+    "LATITUDE": 4.83886,
+    "BED": 4,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Agada 1 Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64807,
+    "LATITUDE": 4.83798,
+    "BED": 18,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egbolom Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65222,
+    "LATITUDE": 4.82431,
+    "BED": 0,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elok Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65313,
+    "LATITUDE": 4.82356,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emoh Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64661,
+    "LATITUDE": 4.82495,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Iyak Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65324,
+    "LATITUDE": 4.82386,
+    "BED": 4,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogonokom Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.97845,
+    "LATITUDE": 4.86811,
+    "BED": 0,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Adada Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.63305,
+    "LATITUDE": 4.91812,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogboloma Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.48238,
+    "LATITUDE": 4.80477,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ochigba Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58796,
+    "LATITUDE": 5.00216,
+    "BED": 5,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihuaba Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.67464,
+    "LATITUDE": 5.03795,
+    "BED": 6,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihuama Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.67285,
+    "LATITUDE": 4.97443,
+    "BED": 10,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihuowo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.66106,
+    "LATITUDE": 5.00547,
+    "BED": 4,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Odiaje Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.68126,
+    "LATITUDE": 5.08115,
+    "BED": 3,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Odiemudie Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.68954,
+    "LATITUDE": 5.10161,
+    "BED": 4,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihugbogo Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.66563421,
+    "LATITUDE": 5.13756,
+    "BED": 23,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okporomini Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.70213,
+    "LATITUDE": 5.15137,
+    "BED": 2,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abarikpo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01263,
+    "LATITUDE": 5.05905,
+    "BED": 3,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihuaje Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.63641,
+    "LATITUDE": 5.19044,
+    "BED": 12,
+    "STAFF": 13,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogbo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.62386,
+    "LATITUDE": 5.13468,
+    "BED": 5,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ula-Ehuda Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.62875,
+    "LATITUDE": 5.10377,
+    "BED": 3,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ahoada Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65421,
+    "LATITUDE": 5.07288,
+    "BED": 20,
+    "STAFF": 29,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ahoada General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.64288,
+    "LATITUDE": 5.09617,
+    "BED": 80,
+    "STAFF": 53,
+    "CHALLENGES": "Moderately resourced: Adequate beds or staffing",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Okpeden Medical Center & Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65101,
+    "LATITUDE": 5.08124,
+    "BED": 10,
+    "STAFF": 14,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Edeoha Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.63352,
+    "LATITUDE": 5.02336,
+    "BED": 12,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ula-Upata Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61783,
+    "LATITUDE": 5.09084,
+    "BED": 11,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Odiabidi Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.63589,
+    "LATITUDE": 4.95025,
+    "BED": 8,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okporowo Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.63721,
+    "LATITUDE": 4.95724,
+    "BED": 20,
+    "STAFF": 13,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogbele Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.67099,
+    "LATITUDE": 4.91856,
+    "BED": 4,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akinima Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.47066,
+    "LATITUDE": 5.08923,
+    "BED": 10,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Oshie Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.48817,
+    "LATITUDE": 5.09741,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ubeta Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58168,
+    "LATITUDE": 5.15624,
+    "BED": 0,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oyigba Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.57364,
+    "LATITUDE": 5.09783,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ubarama Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61922,
+    "LATITUDE": 5.20216,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ubio Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61766,
+    "LATITUDE": 5.18183,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebiriba Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.54045,
+    "LATITUDE": 5.14433,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ula-Ubie Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.57914,
+    "LATITUDE": 5.14805,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Mbiama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.44522,
+    "LATITUDE": 5.06397,
+    "BED": 0,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "General Hospital Joinkrama",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.49404,
+    "LATITUDE": 5.14968,
+    "BED": 61,
+    "STAFF": 6,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Akiogbologbo Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.42764,
+    "LATITUDE": 5.01024,
+    "BED": 0,
+    "STAFF": 1,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Igovia Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.4698,
+    "LATITUDE": 4.97694,
+    "BED": 0,
+    "STAFF": 1,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ikodi-Engenni Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.46148,
+    "LATITUDE": 4.99084,
+    "BED": 0,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbogolo Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.54786,
+    "LATITUDE": 4.93027,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okarki Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.42847,
+    "LATITUDE": 4.98447,
+    "BED": 10,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okarki Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.42847,
+    "LATITUDE": 4.98447,
+    "BED": 10,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okparaki Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.44789,
+    "LATITUDE": 4.98407,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Udoda Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.46019,
+    "LATITUDE": 4.98495,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbede Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.50962,
+    "LATITUDE": 5.04529,
+    "BED": 10,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbologbolo Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.57607,
+    "LATITUDE": 5.14429,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okogbe Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.54259,
+    "LATITUDE": 5.06777,
+    "BED": 13,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okogbe Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.53899302,
+    "LATITUDE": 5.06453755,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ukpelede Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.536071777,
+    "LATITUDE": 5.084289551,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ukpeliede Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.53605,
+    "LATITUDE": 5.08418,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emezhi 1 Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.51491,
+    "LATITUDE": 5.07111,
+    "BED": 1,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Upatabo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58982459,
+    "LATITUDE": 5.08827363,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Odiereke-Ubie Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.55656,
+    "LATITUDE": 5.18187,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Upatabo Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.5897,
+    "LATITUDE": 5.08825,
+    "BED": 25,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Abonnema Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.77196,
+    "LATITUDE": 4.73717,
+    "BED": 8,
+    "STAFF": 24,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Abonnema General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.77899,
+    "LATITUDE": 4.72483,
+    "BED": 0,
+    "STAFF": 12,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "NNANA CLINIC",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.78117,
+    "LATITUDE": 4.72448,
+    "BED": 8,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Obonoma Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.79107,
+    "LATITUDE": 4.71462,
+    "BED": 8,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Kula Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64574,
+    "LATITUDE": 4.34052,
+    "BED": 9,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Luckyland Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69009,
+    "LATITUDE": 4.50555,
+    "BED": 2,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abissa Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.76443,
+    "LATITUDE": 4.394434,
+    "BED": 6,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elem-Sangama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58346,
+    "LATITUDE": 4.67367,
+    "BED": 8,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Idama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.80517,
+    "LATITUDE": 4.62863,
+    "BED": 6,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Soku Cottage Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.68085,
+    "LATITUDE": 4.67775,
+    "BED": 10,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ngo General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.41044,
+    "LATITUDE": 4.48082,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ngo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.414256,
+    "LATITUDE": 4.478699,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ataba Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.32825,
+    "LATITUDE": 4.56005,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akaradi Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.424333333,
+    "LATITUDE": 4.517315,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egwede Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.40032,
+    "LATITUDE": 4.48584,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oronija Primary Health Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37406246,
+    "LATITUDE": 4.52281834,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Unyengala Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.451313,
+    "LATITUDE": 4.4526947,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Agwut-Obolo Primary Health Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.38695,
+    "LATITUDE": 4.47744,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ilotombi Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37652,
+    "LATITUDE": 4.478119612,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oyorokoto Primary Health Care",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.33472583,
+    "LATITUDE": 4.44778977,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebukuma Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37821,
+    "LATITUDE": 4.56536,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ekede Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.437529564,
+    "LATITUDE": 4.481161237,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Asukama Primary Health Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.48218,
+    "LATITUDE": 4.47894,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ikuru Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.488675,
+    "LATITUDE": 4.47791,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okoroboile Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.54509748,
+    "LATITUDE": 4.47782073,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Unyeada Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.43962814,
+    "LATITUDE": 4.52605361,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egbormung Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.45553,
+    "LATITUDE": 4.54425,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Isiodum Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.43149,
+    "LATITUDE": 4.47005,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Otuafu-Otunria Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.38672,
+    "LATITUDE": 4.56601,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ajakajak Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.45668,
+    "LATITUDE": 4.45565,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Asarama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.45145,
+    "LATITUDE": 4.52711,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egendem Primary Health Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.44389,
+    "LATITUDE": 4.53277,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Sick Bay",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85738,
+    "LATITUDE": 4.73825,
+    "BED": 1,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abalama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.84554,
+    "LATITUDE": 4.75515,
+    "BED": 5,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ifoko Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.80312,
+    "LATITUDE": 4.77029,
+    "BED": 5,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ilelema Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.79307,
+    "LATITUDE": 4.79162,
+    "BED": 5,
+    "STAFF": 23,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Oproama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.86817,
+    "LATITUDE": 4.77912,
+    "BED": 2,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Tema Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.82455,
+    "LATITUDE": 4.77812,
+    "BED": 3,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ido Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85001,
+    "LATITUDE": 4.74443,
+    "BED": 8,
+    "STAFF": 22,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Sama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.86817,
+    "LATITUDE": 4.77192,
+    "BED": 8,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Angulama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85068,
+    "LATITUDE": 4.74185,
+    "BED": 10,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Krakrama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.79475,
+    "LATITUDE": 4.75622,
+    "BED": 10,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Minama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.80646,
+    "LATITUDE": 4.70919,
+    "BED": 3,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omekweama Primary Health",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.83150006,
+    "LATITUDE": 4.73921845,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Sangama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.79475,
+    "LATITUDE": 4.75622,
+    "BED": 2,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Buguma General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.86174,
+    "LATITUDE": 4.73628,
+    "BED": 6,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Buguma Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85797,
+    "LATITUDE": 4.7625,
+    "BED": 11,
+    "STAFF": 30,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Burukiri Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22114,
+    "LATITUDE": 4.45658,
+    "BED": 0,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oloma Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19552,
+    "LATITUDE": 4.45926,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Peterside Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.16145,
+    "LATITUDE": 4.47849,
+    "BED": 2,
+    "STAFF": 16,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bonny Model Primary Health Centre, Berger Road",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.17191,
+    "LATITUDE": 4.44446,
+    "BED": 8,
+    "STAFF": 28,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bonny Zonal Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.17486,
+    "LATITUDE": 4.43602,
+    "BED": 54,
+    "STAFF": 31,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Channels Clinic & Hospital Nig. Ltd",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.16737,
+    "LATITUDE": 4.43837,
+    "BED": 14,
+    "STAFF": 34,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Delta Specialist Hospital Ltd",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.17273,
+    "LATITUDE": 4.43682,
+    "BED": 17,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Pan-oj Clinic & Diagnostic Service Ltd",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.16563,
+    "LATITUDE": 4.43927,
+    "BED": 15,
+    "STAFF": 17,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "St. Peters Hospital and Maternity",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.17923,
+    "LATITUDE": 4.42922,
+    "BED": 13,
+    "STAFF": 63,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Finima Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15563,
+    "LATITUDE": 4.39691,
+    "BED": 10,
+    "STAFF": 26,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abalamabie Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.21031,
+    "LATITUDE": 4.42657,
+    "BED": 8,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Federal Politechnic Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19358,
+    "LATITUDE": 4.43137,
+    "BED": 4,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Banigo Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24115,
+    "LATITUDE": 4.45325,
+    "BED": 1,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Dema-Abbey Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.25034,
+    "LATITUDE": 4.43544,
+    "BED": 0,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Greens Iwoama Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22972,
+    "LATITUDE": 4.46324,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Halliday Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.23765,
+    "LATITUDE": 4.47056,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abalamabie Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.20843073,
+    "LATITUDE": 4.42894684,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Banigo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24141687,
+    "LATITUDE": 4.45340004,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Dema-Abbey Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.25021488,
+    "LATITUDE": 4.43546893,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bakana Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.97216,
+    "LATITUDE": 4.73026,
+    "BED": 9,
+    "STAFF": 27,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Degema Dental Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.76443144,
+    "LATITUDE": 4.74855723,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Degema General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.76633,
+    "LATITUDE": 4.75344,
+    "BED": 68,
+    "STAFF": 35,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "General Hospital Degema",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.76443144,
+    "LATITUDE": 4.74855723,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Degema Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.76409786,
+    "LATITUDE": 4.74990777,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Marcus Memorial Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.76753,
+    "LATITUDE": 4.75522,
+    "BED": 10,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Usokun Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.7710436,
+    "LATITUDE": 4.78339535,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obuama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.77923871,
+    "LATITUDE": 4.79141298,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Primary Health Centre Bukuma",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.89292905,
+    "LATITUDE": ":4.7679761",
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ke Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.88822,
+    "LATITUDE": 4.57791,
+    "BED": 1,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ke Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.91649437,
+    "LATITUDE": 4.455819726,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Primary Health Centre Oguru-Ama",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.94576261,
+    "LATITUDE": 4.76598589,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bakana Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.96546,
+    "LATITUDE": 4.73954,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Tombia Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.89243845,
+    "LATITUDE": 4.78637096,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Primary Health Centr Bille",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.88729281,
+    "LATITUDE": 4.57794519,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Alesa Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.11884,
+    "LATITUDE": 4.78702,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Aleto Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.734699,
+    "LATITUDE": 4.79302,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Alode Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.69332,
+    "LATITUDE": 4.78702,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nchia General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.13302,
+    "LATITUDE": 4.78531,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogale Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.48499,
+    "LATITUDE": 4.79212,
+    "BED": 4,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebubu Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.14983,
+    "LATITUDE": 4.78006,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eteo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.18576,
+    "LATITUDE": 4.75015,
+    "BED": 9,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ekara Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15478,
+    "LATITUDE": 4.72304,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Onne Mpdel Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15515,
+    "LATITUDE": 4.74908,
+    "BED": 6,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Agbonchia Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.12696,
+    "LATITUDE": 4.80584,
+    "BED": 11,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akpajo Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08822,
+    "LATITUDE": 4.81805,
+    "BED": 9,
+    "STAFF": 25,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ubimini Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.73825,
+    "LATITUDE": 5.26981,
+    "BED": 10,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbakiri Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.90533,
+    "LATITUDE": 4.82922,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akpabu model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.70702,
+    "LATITUDE": 5.14108,
+    "BED": 6,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omudioga comprehensive Health centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.79674,
+    "LATITUDE": 5.17049,
+    "BED": 3,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Egbeda",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.75237,
+    "LATITUDE": 5.222572088,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ovogo Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.77251,
+    "LATITUDE": 4.94062,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuji Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.7765,
+    "LATITUDE": 4.9478,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Rumuewhor",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.77448,
+    "LATITUDE": 4.90338,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbakiri Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.91092,
+    "LATITUDE": 4.81476,
+    "BED": 9,
+    "STAFF": 24,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Elibrada Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85392,
+    "LATITUDE": 4.90344,
+    "BED": 0,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Emohua Infant Welfare Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.85586,
+    "LATITUDE": 4.88699,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Isiodu Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.87026,
+    "LATITUDE": 4.89356,
+    "BED": 2,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oduoha model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.83192,
+    "LATITUDE": 4.92058,
+    "BED": 4,
+    "STAFF": 22,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Obelle comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.81942,
+    "LATITUDE": 5.00414,
+    "BED": 1,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ibaa model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.82043,
+    "LATITUDE": 4.9845,
+    "BED": 0,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ndele Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.74916,
+    "LATITUDE": 4.97969,
+    "BED": 10,
+    "STAFF": 17,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuekpe Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69022,
+    "LATITUDE": 4.98342,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elele-Alimini Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.73081,
+    "LATITUDE": 5.05611,
+    "BED": 0,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Afara Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.86817,
+    "LATITUDE": 4.77912,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obite Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.03835,
+    "LATITUDE": 4.60912,
+    "BED": 1,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Grassroot Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.47687,
+    "LATITUDE": 4.84275,
+    "BED": 7,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okehi General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.13766322,
+    "LATITUDE": 5.13215434,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elele Health Outreach",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.48942,
+    "LATITUDE": 4.40647,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ozuzu Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.66498,
+    "LATITUDE": 4.75506,
+    "BED": 3,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ulakwo Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.13219,
+    "LATITUDE": 4.81824,
+    "BED": 8,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egbeke Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69186,
+    "LATITUDE": 4.44438,
+    "BED": 1,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umohie Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.22275,
+    "LATITUDE": 4.56448,
+    "BED": 4,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akwa Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06593,
+    "LATITUDE": 5.01079,
+    "BED": 10,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akpoku Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 5.49632,
+    "LATITUDE": 7.80567,
+    "BED": 1,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuoye Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.49621,
+    "LATITUDE": 4.80492,
+    "BED": 1,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ndashi Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.11960,
+    "LATITUDE": 5.20514,
+    "BED": 2,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umudele Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.16110,
+    "LATITUDE": 5.20132,
+    "BED": 1,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuaturu Health post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.09226,
+    "LATITUDE": 5.15918,
+    "BED": 1,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuedemba Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.12739,
+    "LATITUDE": 4.91373,
+    "BED": 2,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Orwu/ Ogida Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.00044,
+    "LATITUDE": 5.22133,
+    "BED": 3,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ihie Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.13951,
+    "LATITUDE": 5.13402,
+    "BED": 2,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Chokota Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08674,
+    "LATITUDE": 4.94386,
+    "BED": 2,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Imeh Primary Health P0st",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.12469,
+    "LATITUDE": 5.20185,
+    "BED": 2,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuakuru Health POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.09226,
+    "LATITUDE": 5.15918,
+    "BED": 2,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuebulu Cottage Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.90264,
+    "LATITUDE": 4.57277,
+    "BED": 17,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Abara Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01347,
+    "LATITUDE": 5.05701,
+    "BED": 2,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Chokocho Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05270,
+    "LATITUDE": 4.98840,
+    "BED": 1,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elele Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99800095,
+    "LATITUDE": 5.09501364,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "General Hospital Okomoko",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.0661,
+    "LATITUDE": 5.0069,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okomoko General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.69186,
+    "LATITUDE": 4.44438,
+    "BED": 17,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okoroagu Health Outreach",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08253,
+    "LATITUDE": 4.99169,
+    "BED": 0,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okoroagu Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08272056,
+    "LATITUDE": 4.99203781,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egwi Maternity and Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06639921,
+    "LATITUDE": 5.02134381,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egwi Model Primary Health centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06557,
+    "LATITUDE": 5.01933,
+    "BED": 17,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Opiro Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05680556,
+    "LATITUDE": 5.03401847,
+    "BED": 2,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nihi Health Outreach",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06670,
+    "LATITUDE": 5.06691,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nihi Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05877155,
+    "LATITUDE": 5.07210858,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Odufor",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05576,
+    "LATITUDE": 5.09961,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Odufor Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.04993,
+    "LATITUDE": 5.11691,
+    "BED": 11,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ozuzu Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.00532446,
+    "LATITUDE": 5.13930946,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "BODO GENERAL HOSPITAL",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.27726,
+    "LATITUDE": 4.63806,
+    "BED": 30,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "BODO HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.27692,
+    "LATITUDE": 4.62684,
+    "BED": 0,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "FRONNESS HOSPITAL",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.29412,
+    "LATITUDE": 4.65455,
+    "BED": 0,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "MOGHO HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.28434,
+    "LATITUDE": 4.65526,
+    "BED": 0,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "BARAKO MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.31097,
+    "LATITUDE": 4.66236,
+    "BED": 13,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "NWEOL MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30458,
+    "LATITUDE": 4.6554,
+    "BED": 15,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "BIARA COMPREHENSIVE HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30222,
+    "LATITUDE": 4.66633,
+    "BED": 0,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "DEEYOR PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30188,
+    "LATITUDE": 4.67366,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "DEKEN COMPREHENSIVE HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30019,
+    "LATITUDE": 4.72249,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "NWEBIARA HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30761,
+    "LATITUDE": 4.67621,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "YEGHE MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.33952,
+    "LATITUDE": 4.68935,
+    "BED": 15,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "BERA HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.28636,
+    "LATITUDE": 4.66297,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "TERABOR GENERAL HOSPITAL",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.29446,
+    "LATITUDE": 4.65519,
+    "BED": 30,
+    "STAFF": 20,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "TERABOR HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.29412,
+    "LATITUDE": 4.65583,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "B.DERE MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.27624,
+    "LATITUDE": 4.68274,
+    "BED": 9,
+    "STAFF": 22,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "K.DERE COMPREHENSIVE HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.27624,
+    "LATITUDE": 4.66628,
+    "BED": 12,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "BOMU MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05084,
+    "LATITUDE": 4.85728,
+    "BED": 10,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "DUMKIL MEDICAL CENTER, KPOR",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.28468,
+    "LATITUDE": 4.64888,
+    "BED": 0,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "GBE HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.28029,
+    "LATITUDE": 4.62841,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "KPOR PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.28468,
+    "LATITUDE": 4.64888,
+    "BED": 10,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "LEWE HEALTH POST",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30188,
+    "LATITUDE": 4.65223,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Adanta Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.87965,
+    "LATITUDE": 4.95687,
+    "BED": 13,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ipo Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.95967,
+    "LATITUDE": 5.05201,
+    "BED": 4,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omademe Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.95817,
+    "LATITUDE": 5.08645,
+    "BED": 10,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ozuaha Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.91947,
+    "LATITUDE": 5.06322,
+    "BED": 10,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Igwuruta Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.02178,
+    "LATITUDE": 4.97587,
+    "BED": 15,
+    "STAFF": 20,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Aluu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.94089,
+    "LATITUDE": 4.93315,
+    "BED": 10,
+    "STAFF": 28,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Mbodo Aluu Health Centre",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.95754,
+    "LATITUDE": 4.93628,
+    "BED": 8,
+    "STAFF": 26,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Omuoko Aluu (UPTH) Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.90638,
+    "LATITUDE": 4.91416,
+    "BED": 0,
+    "STAFF": 33,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Isiokpo Zonal General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.87125,
+    "LATITUDE": 5.00801,
+    "BED": 0,
+    "STAFF": 21,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Omupirikpi Infant Welfare Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.87919,
+    "LATITUDE": 4.98408,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elele Madonna University Teaching Hospital",
+    "LEVEL": "Tertiary",
+    "LONGITUDE": 6.82986,
+    "LATITUDE": 5.12292,
+    "BED": 240,
+    "STAFF": 196,
+    "CHALLENGES": "Moderately resourced: Adequate beds or staffing",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Elele Cantonment Medical Reception Station",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.76857,
+    "LATITUDE": 5.06805,
+    "BED": 24,
+    "STAFF": 22,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Elele Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.80846,
+    "LATITUDE": 5.10782,
+    "BED": 10,
+    "STAFF": 18,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omerelu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.8648,
+    "LATITUDE": 5.20193,
+    "BED": 0,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Apani Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.91345,
+    "LATITUDE": 5.21099,
+    "BED": 10,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omuanwa Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.88671,
+    "LATITUDE": 5.06578,
+    "BED": 4,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ubima Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.90199,
+    "LATITUDE": 5.11907,
+    "BED": 12,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Omagwa Federal Airport Authority Nigeria Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.95019,
+    "LATITUDE": 5.00402,
+    "BED": 8,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Omagwa Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.91311,
+    "LATITUDE": 4.9794,
+    "BED": 4,
+    "STAFF": 31,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Bori Zonal General Hospital",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37492,
+    "LATITUDE": 4.67359,
+    "BED": 85,
+    "STAFF": 46,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Bane Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.49553,
+    "LATITUDE": 4.65864,
+    "BED": 14,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kwawa Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.44384,
+    "LATITUDE": 4.59824,
+    "BED": 12,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Wiiyaakara Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.43245,
+    "LATITUDE": 4.66426,
+    "BED": 0,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Uegwere-Boue Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.36094,
+    "LATITUDE": 4.65097,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bori Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37844881,
+    "LATITUDE": 4.67115,
+    "BED": 5,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Gwara Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.40513286,
+    "LATITUDE": 4.61056164,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kaa Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.368704081,
+    "LATITUDE": 4.577414989,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Luawii Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.38994,
+    "LATITUDE": 4.66823,
+    "BED": 12,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Luuwa Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.47582,
+    "LATITUDE": 4.64112,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Opuoko Model primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.47672,
+    "LATITUDE": 4.64256,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Betem Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.41449,
+    "LATITUDE": 4.66192,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kpean Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.44384,
+    "LATITUDE": 4.44384,
+    "BED": 0,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Luebe Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.4168742,
+    "LATITUDE": 4.8041542,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Yae Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.474710345,
+    "LATITUDE": 4.755958915,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Lueku primary Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.434101701,
+    "LATITUDE": 4.751651287,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Tekasogho Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.377668023,
+    "LATITUDE": 4.756817222,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Zorsogho Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.359203696,
+    "LATITUDE": 4.749435782,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okwale Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37045,
+    "LATITUDE": 4.69179,
+    "BED": 16,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kaani 1 Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.36674,
+    "LATITUDE": 4.67488,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kaani 11 Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.36629,
+    "LATITUDE": 4.67848,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kabangha Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.46981,
+    "LATITUDE": 4.66885,
+    "BED": 0,
+    "STAFF": 1,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Luumene Model Primay Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.48283,
+    "LATITUDE": 4.67723,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kpong Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.40442,
+    "LATITUDE": 4.68960,
+    "BED": 0,
+    "STAFF": 1,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Taaba General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.414832711,
+    "LATITUDE": 4.735026956,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Taabaa Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.41527,
+    "LATITUDE": 4.73163,
+    "BED": 15,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nyogor Beeri Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37329,
+    "LATITUDE": 4.68275,
+    "BED": 15,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eliozu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.02324,
+    "LATITUDE": 4.86882,
+    "BED": 13,
+    "STAFF": 19,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bosom Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.98785,
+    "LATITUDE": 4.83297,
+    "BED": 10,
+    "STAFF": 20,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Mgbuoshimini Rumueme Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.97616,
+    "LATITUDE": 4.80331,
+    "BED": 10,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumudara Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.03191603,
+    "LATITUDE": 4.85431994,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumueme College of Health Science/Technology Demonstration Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.98366,
+    "LATITUDE": 4.81761,
+    "BED": 14,
+    "STAFF": 54,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Rumueme",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.990905762,
+    "LATITUDE": 4.849914551,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Greencare Medical Consultants",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.98248,
+    "LATITUDE": 4.85354,
+    "BED": 20,
+    "STAFF": 42,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuigbo Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99111,
+    "LATITUDE": 4.84986,
+    "BED": 10,
+    "STAFF": 31,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bethesda Mission Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.97220,
+    "LATITUDE": 4.83488,
+    "BED": 28,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebony Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.99124,
+    "LATITUDE": 4.83351,
+    "BED": 30,
+    "STAFF": 49,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eneka Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.04109,
+    "LATITUDE": 4.89475,
+    "BED": 10,
+    "STAFF": 23,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Rukpokwu",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.993132,
+    "LATITUDE": 4.89961,
+    "BED": 3,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rahi Medical Hospital Limited",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.941,
+    "LATITUDE": 4.8789,
+    "BED": 24,
+    "STAFF": 19,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuekini Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.93857,
+    "LATITUDE": 4.89029,
+    "BED": 4,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "April Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.94195,
+    "LATITUDE": 4.86999,
+    "BED": 8,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Covenant Life Family Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.800142,
+    "LATITUDE": 4.699316,
+    "BED": 4,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ozuoba Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.92887,
+    "LATITUDE": 4.87113,
+    "BED": 15,
+    "STAFF": 29,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuolumeni Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.95608,
+    "LATITUDE": 4.80884,
+    "BED": 7,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "University Of Education Health Services",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.93453,
+    "LATITUDE": 4.80446,
+    "BED": 17,
+    "STAFF": 31,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eye Care Consultants Hospital",
+    "LEVEL": "Tertiary",
+    "LONGITUDE": 7.11794,
+    "LATITUDE": 4.87229,
+    "BED": 7,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Iriebe Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.11917,
+    "LATITUDE": 4.86881,
+    "BED": 7,
+    "STAFF": 20,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumukrushi Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05669,
+    "LATITUDE": 4.85341,
+    "BED": 18,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oasis Children Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00283,
+    "LATITUDE": 4.87275,
+    "BED": 9,
+    "STAFF": 32,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuodomaya Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99923,
+    "LATITUDE": 4.89455,
+    "BED": 10,
+    "STAFF": 16,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Alphonso Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.07125,
+    "LATITUDE": 4.83016,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elelenwo Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.07733,
+    "LATITUDE": 4.82962,
+    "BED": 10,
+    "STAFF": 31,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elelenwo Primary Health Centre Family Support Programme",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.07045,
+    "LATITUDE": 4.83719,
+    "BED": 3,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kendox Medical Services",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.07286,
+    "LATITUDE": 4.82999,
+    "BED": 42,
+    "STAFF": 51,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "St Jude Medical Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.92022,
+    "LATITUDE": 4.84219,
+    "BED": 10,
+    "STAFF": 44,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Choba Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.901254058,
+    "LATITUDE": 4.886920452,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Life Forte Specialist Hospital",
+    "LEVEL": "Tertiary",
+    "LONGITUDE": 6.95413,
+    "LATITUDE": 4.81776,
+    "BED": 30,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Woji Cottage Hospital",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.049072266,
+    "LATITUDE": 4.815124512,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Woji Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.03969,
+    "LATITUDE": 4.84038,
+    "BED": 11,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ansett Diagnostics Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.03815,
+    "LATITUDE": 4.82932,
+    "BED": 10,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "First Rivers Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.02219,
+    "LATITUDE": 4.83617,
+    "BED": 60,
+    "STAFF": 83,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Obio Cottage Hospital",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.03442,
+    "LATITUDE": 4.88335,
+    "BED": 60,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bennod International Hospital",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.97603,
+    "LATITUDE": 4.83458,
+    "BED": 10,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rumuepirikom Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.98685,
+    "LATITUDE": 4.8341921,
+    "BED": 8,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Springs Medical Centre",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.98785,
+    "LATITUDE": 4.83297,
+    "BED": 23,
+    "STAFF": 37,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Calvary Hospital",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99154,
+    "LATITUDE": 4.8315,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eli Johnson Specialist Hospital",
+    "LEVEL": "Tertiary",
+    "LONGITUDE": 7.05299546,
+    "LATITUDE": 4.84569946,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eli-Johnson Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.05299546,
+    "LATITUDE": 4.84569946,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Shammah Christian Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.05670166,
+    "LATITUDE": 4.820495606,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "St Martin'S Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.01595,
+    "LATITUDE": 4.82386,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ndoni Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.59656,
+    "LATITUDE": 5.54264,
+    "BED": 14,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ase-Azaga Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.62921,
+    "LATITUDE": 5.68799,
+    "BED": 8,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akabta Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69818,
+    "LATITUDE": 5.23857,
+    "BED": 3,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obiyebe Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61628,
+    "LATITUDE": 5.24539,
+    "BED": 6,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "First Foundation Clinic Limited",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.65998,
+    "LATITUDE": 5.33471,
+    "BED": 10,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "General Hospital Omoku",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.65748,
+    "LATITUDE": 5.35406,
+    "BED": 47,
+    "STAFF": 14,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Omoku Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65757,
+    "LATITUDE": 5.34828,
+    "BED": 7,
+    "STAFF": 37,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Capstone Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.65714,
+    "LATITUDE": 5.3508,
+    "BED": 15,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Gbeye Hospital and Maternity ltd",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65778,
+    "LATITUDE": 5.35061,
+    "BED": 40,
+    "STAFF": 26,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Erema Primary Health centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.66367,
+    "LATITUDE": 5.17311,
+    "BED": 6,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebocha Model Primary Health center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69327,
+    "LATITUDE": 5.45657,
+    "BED": 6,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okwuzi Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.483236029641081, 
+    "LATITUDE": 4.972138945035658,
+    "BED": 12,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ndoni Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.5899,
+    "LATITUDE": 5.54962,
+    "BED": 3,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ebogoro Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.67817,
+    "LATITUDE": 5.36051,
+    "BED": 3,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obor Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.68549,
+    "LATITUDE": 5.38417,
+    "BED": 3,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obrikom Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.67102,
+    "LATITUDE": 5.39519,
+    "BED": 7,
+    "STAFF": 19,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Idu-Ogba Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.58582,
+    "LATITUDE": 5.2339,
+    "BED": 3,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kreigani Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.62417,
+    "LATITUDE": 5.30068,
+    "BED": 3,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Amah Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.68121,
+    "LATITUDE": 5.27434,
+    "BED": 8,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Egbada Health post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.70301,
+    "LATITUDE": 5.33369,
+    "BED": 0,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elieta Health post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.69982,
+    "LATITUDE": 5.29426,
+    "BED": 0,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ikiri Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.5858,
+    "LATITUDE": 5.2339,
+    "BED": 4,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obigwe Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64569,
+    "LATITUDE": 5.27613,
+    "BED": 1,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ohiauga Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.6427,
+    "LATITUDE": 5.23147,
+    "BED": 2,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okposi Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65148,
+    "LATITUDE": 5.30649,
+    "BED": 12,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akabuka Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.64107,
+    "LATITUDE": 5.21113,
+    "BED": 8,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obite Primary Health centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.65454,
+    "LATITUDE": 5.2523,
+    "BED": 10,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ogbogu Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.6427,
+    "LATITUDE": 5.23147,
+    "BED": 9,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obagi Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.61612,
+    "LATITUDE": 5.24539,
+    "BED": 6,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oboburu Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.59807,
+    "LATITUDE": 5.21534,
+    "BED": 5,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bolo Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22014,
+    "LATITUDE": 4.66773,
+    "BED": 20,
+    "STAFF": 27,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Wakama-Ama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22249,
+    "LATITUDE": 4.69789,
+    "BED": 6,
+    "STAFF": 6,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Chuku-Ama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19632,
+    "LATITUDE": 4.73164,
+    "BED": 0,
+    "STAFF": 14,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19618,
+    "LATITUDE": 4.72133,
+    "BED": 16,
+    "STAFF": 38,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogu General Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.20715,
+    "LATITUDE": 4.72237,
+    "BED": 0,
+    "STAFF": 13,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ikpo-ama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.17943,
+    "LATITUDE": 4.69422,
+    "BED": 4,
+    "STAFF": 8,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Opuama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.17712,
+    "LATITUDE": 4.69123,
+    "BED": 11,
+    "STAFF": 11,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Owuogono Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15596,
+    "LATITUDE": 4.65967,
+    "BED": 0,
+    "STAFF": 12,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogoloma Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08754,
+    "LATITUDE": 4.73661,
+    "BED": 4,
+    "STAFF": 28,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Anyungubiri Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.0854979,
+    "LATITUDE": 4.74319132,
+    "BED": 6,
+    "STAFF": 32,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Fibresima Island Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08447989,
+    "LATITUDE": 4.7419579,
+    "BED": 20,
+    "STAFF": 42,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Kalio-Ama Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.07140469,
+    "LATITUDE": 4.76098441,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okochiri Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.11518,
+    "LATITUDE": 4.74369,
+    "BED": 12,
+    "STAFF": 29,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okrika Celon Health Services",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.10792,
+    "LATITUDE": 4.75462,
+    "BED": 9,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okrika Infant Welfare Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.10374,
+    "LATITUDE": 4.74934,
+    "BED": 0,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okrika Mainland Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.06825,
+    "LATITUDE": 4.77956,
+    "BED": 14,
+    "STAFF": 20,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okrika Onu Medical Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.08263,
+    "LATITUDE": 4.79584,
+    "BED": 11,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okrika Sharon Missionary Medical Centre",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.09361,
+    "LATITUDE": 4.74141,
+    "BED": 7,
+    "STAFF": 25,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Zonal Hospital Okirika",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.103174,
+    "LATITUDE": 4.74934,
+    "BED": 90,
+    "STAFF": 48,
+    "CHALLENGES": "Moderately resourced: Adequate beds or staffing",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Ogbogbo Health Centre Okrika",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08114199,
+    "LATITUDE": 4.74625465,
+    "BED": 7,
+    "STAFF": 35,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okrika Kimberly Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.09368,
+    "LATITUDE": 4.74393,
+    "BED": 10,
+    "STAFF": 9,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ibaka Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08365,
+    "LATITUDE": 4.74973,
+    "BED": 13,
+    "STAFF": 36,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Isaka Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.00017,
+    "LATITUDE": 4.73861,
+    "BED": 5,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Okrika Vinkas Medical Clinics",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.09894,
+    "LATITUDE": 4.75777,
+    "BED": 10,
+    "STAFF": 16,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "George-Ama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.08269,
+    "LATITUDE": 4.74866,
+    "BED": 7,
+    "STAFF": 20,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ogan-Ama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.10493,
+    "LATITUDE": 4.79057,
+    "BED": 11,
+    "STAFF": 41,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Oba-Ama Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06474,
+    "LATITUDE": 4.77053,
+    "BED": 8,
+    "STAFF": 14,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okujagu Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.04671,
+    "LATITUDE": 4.78781,
+    "BED": 6,
+    "STAFF": 17,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Model Primary Health Centre Okochiri",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.09716,
+    "LATITUDE": 4.75194,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Eberi Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.232002616,
+    "LATITUDE": 5.088606477,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Owuahaeke Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.20778,
+    "LATITUDE": 5.00908,
+    "BED": 4,
+    "STAFF": 9,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Umuajuloke Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.20922,
+    "LATITUDE": 5.01704,
+    "BED": 15,
+    "STAFF": 39,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Umuoke Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.21716,
+    "LATITUDE": 5.01659,
+    "BED": 5,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuelechi Primary Health Care",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.21247,
+    "LATITUDE": 5.08877,
+    "BED": 25,
+    "STAFF": 13,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "obiohia model primary health center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.25972,
+    "LATITUDE": 5.11445,
+    "BED": 16,
+    "STAFF": 27,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Ohimoyoro Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24274,
+    "LATITUDE": 5.14208,
+    "BED": 11,
+    "STAFF": 18,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Oyoro Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24605,
+    "LATITUDE": 5.128907,
+    "BED": 4,
+    "STAFF": 9,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Ofeh Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.26059,
+    "LATITUDE": 5.18379,
+    "BED": 5,
+    "STAFF": 20,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Umunju Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22942,
+    "LATITUDE": 5.06228,
+    "BED": 4,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuogba Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22965,
+    "LATITUDE": 5.05642,
+    "BED": 8,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Umueze Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22745,
+    "LATITUDE": 5.04388,
+    "BED": 10,
+    "STAFF": 11,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Umuokwa Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.21956,
+    "LATITUDE": 5.03779,
+    "BED": 10,
+    "STAFF": 12,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "NKORO MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.4694,
+    "LATITUDE": 4.54571,
+    "BED": 12,
+    "STAFF": 24,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Kalaibiama Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.51211,
+    "LATITUDE": 4.52652,
+    "BED": 3,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Minimah Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.54339,
+    "LATITUDE": 4.51738,
+    "BED": 5,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Epellema Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.52869,
+    "LATITUDE": 4.51327,
+    "BED": 1,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "OPOBO MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.53423,
+    "LATITUDE": 4.51152,
+    "BED": 1,
+    "STAFF": 36,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Queenstown Model Primary Health Center",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.56718,
+    "LATITUDE": 4.48332,
+    "BED": 11,
+    "STAFF": 10,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Akachukwu Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15131,
+    "LATITUDE": 4.87209,
+    "BED": 4,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ezinne Maternity Home",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.15422,
+    "LATITUDE": 4.86762,
+    "BED": 7,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Uchechukwu Maternity Home",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.14342,
+    "LATITUDE": 4.87177,
+    "BED": 6,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umusia Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.13819,
+    "LATITUDE": 4.85967,
+    "BED": 8,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Obeakpu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.31816,
+    "LATITUDE": 4.85211,
+    "BED": 9,
+    "STAFF": 22,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Egberu Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.27957,
+    "LATITUDE": 4.82217,
+    "BED": 0,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Umuagbai Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.37686,
+    "LATITUDE": 4.85211,
+    "BED": 7,
+    "STAFF": 17,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Marihu Health Post",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.44713,
+    "LATITUDE": 4.84226,
+    "BED": 1,
+    "STAFF": 2,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Obete Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.48382,
+    "LATITUDE": 4.81434,
+    "BED": 7,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Divine Peace Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19275,
+    "LATITUDE": 4.84619,
+    "BED": 15,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "God's Care Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.19471,
+    "LATITUDE": 4.85139,
+    "BED": 5,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Mirinwanyi Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22114,
+    "LATITUDE": 4.84987,
+    "BED": 13,
+    "STAFF": 19,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Chibuzor Hillary Maternity Home",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.12521,
+    "LATITUDE": 4.85941,
+    "BED": 5,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Faith Maternity Home",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.13241,
+    "LATITUDE": 4.87215,
+    "BED": 5,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "God's Favour Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.11558,
+    "LATITUDE": 4.89775,
+    "BED": 4,
+    "STAFF": 3,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oyigbo Comprehensive Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.13416,
+    "LATITUDE": 4.87549,
+    "BED": 7,
+    "STAFF": 31,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Dabo Maternity Home",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.14519,
+    "LATITUDE": 4.88035,
+    "BED": 6,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Holy Child Maternity",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.14278,
+    "LATITUDE": 4.88327,
+    "BED": 10,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Meridian Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.99773,
+    "LATITUDE": 4.80123,
+    "BED": 50,
+    "STAFF": 113,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Military Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00353,
+    "LATITUDE": 4.82622,
+    "BED": 156,
+    "STAFF": 174,
+    "CHALLENGES": "Adequately resourced: Both staffing and beds are sufficient",
+    "COLOR": "Green"
+  },
+  {
+    "NAME": "Pearl Clinic & Maternity",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00014,
+    "LATITUDE": 4.80065,
+    "BED": 20,
+    "STAFF": 20,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Westhill Medical Services",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00091,
+    "LATITUDE": 4.80444,
+    "BED": 14,
+    "STAFF": 44,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Churchill Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.03526,
+    "LATITUDE": 4.75842,
+    "BED": 10,
+    "STAFF": 16,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nimley Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.03559,
+    "LATITUDE": 4.75825,
+    "BED": 20,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Sterling Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.03462,
+    "LATITUDE": 4.7575,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Life Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01301,
+    "LATITUDE": 4.8265,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Oliver Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01217,
+    "LATITUDE": 4.80546,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Providence Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00761,
+    "LATITUDE": 4.80725,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Rohoboth Specialist Clinic",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.99984,
+    "LATITUDE": 4.7976,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nkpolu-Oroworukwo Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99277,
+    "LATITUDE": 4.80776,
+    "BED": 10,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Health Wise Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.00169,
+    "LATITUDE": 4.79375,
+    "BED": 12,
+    "STAFF": 17,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "LA ROSA CLINICS",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.98625,
+    "LATITUDE": 4.79591,
+    "BED": 18,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Mgbundukwu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.99661,
+    "LATITUDE": 4.79417,
+    "BED": 8,
+    "STAFF": 18,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "New Mile1 Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.99527,
+    "LATITUDE": 4.79042,
+    "BED": 30,
+    "STAFF": 65,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Prof. Kelsey Harrison Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.99424,
+    "LATITUDE": 4.79117,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Chiji-Man Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 6.98972,
+    "LATITUDE": 4.79792,
+    "BED": 22,
+    "STAFF": 17,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "PROF. NIMI BRIGGS HOSPITAL",
+    "LEVEL": "Primary",
+    "LONGITUDE": 6.97915,
+    "LATITUDE": 4.79742,
+    "BED": 50,
+    "STAFF": 55,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Elekahia Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01932,
+    "LATITUDE": 4.81325,
+    "BED": 10,
+    "STAFF": 34,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Paragon Clinic &Imaging",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.01507,
+    "LATITUDE": 4.82696,
+    "BED": 24,
+    "STAFF": 34,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "ST MARTINS HOSPITAL",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.01574,
+    "LATITUDE": 4.82386,
+    "BED": 45,
+    "STAFF": 61,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "FRANCA MEMORIAL CLINIC",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.00743,
+    "LATITUDE": 4.80188,
+    "BED": 6,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Marina Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.01423,
+    "LATITUDE": 4.79757,
+    "BED": 14,
+    "STAFF": 15,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "OROGBUM MODEL PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01142,
+    "LATITUDE": 4.80547,
+    "BED": 7,
+    "STAFF": 22,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "AMADI- AMA PRIMARY HEALTH CENTER",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.02793,
+    "LATITUDE": 4.79478,
+    "BED": 15,
+    "STAFF": 12,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Azubie Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05632,
+    "LATITUDE": 4.80768,
+    "BED": 5,
+    "STAFF": 13,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Care Women Clinic",
+    "LEVEL": "Tertiary",
+    "LONGITUDE": 7.00898,
+    "LATITUDE": 4.79823,
+    "BED": 12,
+    "STAFF": 11,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Health Of The Sick",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.02082753,
+    "LATITUDE": 4.8013187,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Just Hope Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.05947,
+    "LATITUDE": 4.77913,
+    "BED": 20,
+    "STAFF": 16,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Abuloma",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.06036,
+    "LATITUDE": 4.77636,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Okuru-Ama Primary Health centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.05615,
+    "LATITUDE": 4.78463,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ozuboko Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.03942078,
+    "LATITUDE": 4.78090689,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "PRINCESS MEDICAL CLINICS NIGERIA LIMITED",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.01869,
+    "LATITUDE": 4.80851,
+    "BED": 50,
+    "STAFF": 97,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "STEVENSON MEDICARE LTD",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.03974,
+    "LATITUDE": 4.79192,
+    "BED": 11,
+    "STAFF": 18,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Tehilah Children Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.04039,
+    "LATITUDE": 4.79424,
+    "BED": 27,
+    "STAFF": 67,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Braithwaite Memorial Specialist Hospital",
+    "LEVEL": "Secondary",
+    "LONGITUDE": 7.0144533,
+    "LATITUDE": 4.77988905,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Civil Servants Clinic",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01807,
+    "LATITUDE": 4.76976,
+    "BED": 2,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Bundu-ama Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.01138,
+    "LATITUDE": 4.75144,
+    "BED": 7,
+    "STAFF": 8,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Pott's Johnson Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.02078,
+    "LATITUDE": 4.76558,
+    "BED": 6,
+    "STAFF": 18,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "EVERY WOMAN MEDICALCENTRE",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.02362,
+    "LATITUDE": 4.77206,
+    "BED": 2,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Gbeneue Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.2820142,
+    "LATITUDE": 4.74162455,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Model Primary Health Centre Botem",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.28044,
+    "LATITUDE": 4.72684,
+    "BED": 0,
+    "STAFF": 0,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ban-Ogoi Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22639,
+    "LATITUDE": 4.79705,
+    "BED": 3,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kpite Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30019,
+    "LATITUDE": 4.72249,
+    "BED": 14,
+    "STAFF": 10,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Korokoro Model Primary Health Cenctre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.31328,
+    "LATITUDE": 4.72603,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Ueken Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.30261,
+    "LATITUDE": 4.70491,
+    "BED": 0,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Koroma Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24658,
+    "LATITUDE": 4.71952,
+    "BED": 12,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Kira Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.24995,
+    "LATITUDE": 4.7182,
+    "BED": 14,
+    "STAFF": 7,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Gbam Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.22804,
+    "LATITUDE": 4.73089,
+    "BED": 1,
+    "STAFF": 4,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Gio Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.25264,
+    "LATITUDE": 4.71689,
+    "BED": 1,
+    "STAFF": 6,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  },
+  {
+    "NAME": "Nonwa Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.23107,
+    "LATITUDE": 4.73445,
+    "BED": 14,
+    "STAFF": 13,
+    "CHALLENGES": "Significant challenges: Staffing or beds are under-resourced",
+    "COLOR": "Yellow"
+  },
+  {
+    "NAME": "Bunu Model Primary Health Centre",
+    "LEVEL": "Primary",
+    "LONGITUDE": 7.2459,
+    "LATITUDE": 4.76191,
+    "BED": 12,
+    "STAFF": 5,
+    "CHALLENGES": "Serious resource challenges: Under-resourced in both beds and staffing",
+    "COLOR": "Red"
+  }
+]
+}
